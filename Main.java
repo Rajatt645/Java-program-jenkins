@@ -6,6 +6,6 @@ public class Main
       System.out.println("Hello Naryal");
       System.out.println(new Date());
       System.out.println("hello");
-      System.out.println("asdfghjkl");
+      System.out.println("asdfgh");
     }
 }
